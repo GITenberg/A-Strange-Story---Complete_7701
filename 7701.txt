@@ -1,9 +1,10 @@
+
 Project Gutenberg's A Strange Story, Complete, by Edward Bulwer-Lytton
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: A Strange Story, Complete
@@ -11,6 +12,8 @@ Title: A Strange Story, Complete
 Author: Edward Bulwer-Lytton
 
 Release Date: March 16, 2009 [EBook #7701]
+
+Last Updated: August 14, 2014
 
 Language: English
 
@@ -27,11 +30,16 @@ Produced by Andrew Heath and David Widger
 
 
 
+
+
+
 A STRANGE STORY
+
 
 By Edward Bulwer Lytton
 
-(Lord Lytton)
+ (Lord Lytton)
+
 
 
 
@@ -59,6 +67,7 @@ something is wanted,--some key to the marvels which neither of these
 conditions of vital being suffices to explain. And at last the grand
 self-completing Thinker attains to the Third Life of Man in Man's Soul.
 
+
    "There are not," says this philosopher, towards the close of his last
     and loftiest work,--"there are not only two principles opposed to
     each other in Man,--there are three.  For there are in him three
@@ -78,6 +87,7 @@ conducts its bewildered hero towards the same goal to which Philosophy
 leads its luminous Student, through far grander portents of Nature, far
 higher visions of Supernatural Power, than Fable can yield to Fancy.
 That goal is defined in these noble words:--
+
 
    "The relations (rapports) which exist between the elements and the
     products of the three lives of Man are the subjects of meditation,
@@ -131,6 +141,7 @@ nor Nature, nature.
 It is said, by a writer to whom an eminent philosophical critic justly
 applies the epithets of "pious and profound:" (5)
 
+
    "Is it unreasonable to confess that we believe in God, not by reason
     of the Nature which conceals Him, but by reason of the Supernatural
     in Man which alone reveals and proves Him to exist?...  Man reveals
@@ -138,7 +149,6 @@ applies the epithets of "pious and profound:" (5)
     of this intelligence is conscious of himself as a power not only
     independent of, but opposed to, Nature, and capable of resisting,
     conquering, and controlling her."(6)
-
 
 If the meaning involved in the argument, of which I have here made but
 scanty extracts, be carefully studied, I think that we shall find
@@ -192,6 +202,7 @@ and if he doubt or deny that there be any such truth, still, in the
 process of thought which the doubt or denial enforces, he may chance on
 a truth which it pleases himself to discover.
 
+
    "Most of the Fables of AEsop,"--thus says Montaigne in his
     charming essay "Of Books"(7)--"have several senses and meanings, of
     which the Mythologists choose some one that tallies with the fable.
@@ -218,6 +229,9 @@ a truth which it pleases himself to discover.
 
 
 
+
+
+
 CHAPTER I.
 
 In the year 18-- I settled as a physician at one of the wealthiest of
@@ -231,7 +245,7 @@ to the ambition of students. On becoming a member of the College of
 Physicians, I made a tour of the principal cities of Europe, taking
 letters of introduction to eminent medical men, and gathering from many
 theories and modes of treatment hints to enlarge the foundations of
-unprejudiced and comprehensive' practice. I had resolved to fix my
+unprejudiced and comprehensive practice. I had resolved to fix my
 ultimate residence in London. But before this preparatory tour was
 completed, my resolve was changed by one of those unexpected events
 which determine the fate man in vain would work out for himself. In
@@ -328,7 +342,7 @@ Dr. Lloyd had been esteemed a learned naturalist long before he was
 admitted to be a tolerable physician. Amidst the privations of his
 youth he had contrived to form, and with each succeeding year he had
 perseveringly increased, a zoological collection of creatures, not
-alive, but, happily for the be holder, stuffed or embalmed. From what I
+alive, but, happily for the beholder, stuffed or embalmed. From what I
 have said, it will be truly inferred that Dr. Lloyd's early career as
 a physician had not been brilliant; but of late years he had gradually
 rather aged than worked himself into that professional authority and
@@ -414,7 +428,7 @@ eminence, under the name and title of Mrs. Colonel Poyntz.
 
 "Dr. Fenwick," said this lady, "is a clever young man and a gentleman,
 but he gives himself airs,--the Hill does not allow any airs but its
-own. Besides, he is a new comer: resistance to new corners, and, indeed,
+own. Besides, he is a new comer: resistance to new comers, and, indeed,
 to all things new, except caps and novels, is one of the bonds that keep
 old established societies together. Accordingly, it is by my advice that
 Dr. Lloyd has taken Abbots' House; the rent would be too high for his
@@ -519,6 +533,8 @@ were such defects injurious to me in my profession; on the contrary,
 aided as they were by a calm manner, and a presence not without that
 kind of dignity which is the livery of self-esteem, they served to
 impose respect and to inspire trust.
+
+
 
 
 
@@ -711,6 +727,8 @@ back to my solitary home.
 
 
 
+
+
 CHAPTER III.
 
 It was some time before I could shake off the impression made on me by
@@ -833,6 +851,8 @@ and sullen scowl the affable smile of supreme indifference.
 
 
 
+
+
 CHAPTER IV.
 
 I had now arrived at that age when an ambitious man, satisfied with
@@ -880,7 +900,7 @@ for, and which I cannot account for now,--an impulse the reverse of that
 which usually makes us turn away with quickened step from a spot that
 recalls associations of pain,--urged me on through the open gates up the
 neglected grass-grown road, urged me to look, under the weltering sun of
-the joyous spring, at that house which I bad never seen but in the gloom
+the joyous spring, at that house which I had never seen but in the gloom
 of a winter night, under the melancholy moon. As the building came in
 sight, with dark-red bricks, partially overgrown with ivy, I perceived
 that it was no longer unoccupied. I saw forms passing athwart the open
@@ -956,6 +976,8 @@ back into the hard earth again as Love smiles or sighs its farewell!
 
 
 
+
+
 CHAPTER V.
 
 And before that evening I had looked on Mr. Vigors with supreme
@@ -969,11 +991,11 @@ up, I snapped the thread of conjecture, for right before my eyes, on the
 table beside which I had seated myself on entering my room, lay a card
 of invitation:--
 
+
             MRS. POYNTZ.
               At Home,
          Wednesday, May 15th.
       Early.
-
 
 Mrs. Poyntz,--Mrs. Colonel Poyntz, the Queen of the Hill? There, at her
 house, I could not fail to learn all about the new comers, who could
@@ -1004,6 +1026,8 @@ the mansion of Mrs. Colonel Poyntz.
 As I entered the drawing-room, I heard the voice of the hostess; it
 was a voice clear, decided, metallic, bell-like, uttering these words:
 "Taken Abbots' House? I will tell you."
+
+
 
 
 
@@ -1210,6 +1234,8 @@ as little akin to romance herself as was this worldly Queen of the Hill.
 
 
 
+
+
 CHAPTER VII.
 
 I have given a sketch of the outward woman of Mrs. Colonel Poyntz. The
@@ -1312,7 +1338,7 @@ I have said that she was not affected: this might be one cause of her
 sway over a set in which nearly every other woman was trying rather to
 seem, than to be, a somebody.
 
-Put if Mrs. Colonel Poyntz was not artificial, she was artful, or
+But if Mrs. Colonel Poyntz was not artificial, she was artful, or
 perhaps I might more justly say artistic. In all she said and did there
 were conduct, system, plan. She could be a most serviceable friend, a
 most damaging enemy; yet I believe she seldom indulged in strong likings
@@ -1332,7 +1358,7 @@ And thus, in every compliment, in every seeming mark of respect, she
 maintained the superior dignity of one who takes from responsible
 station the duty to encourage rising merit; so that, somehow or other,
 despite all that pride which made me believe that I needed no helping
-and to advance or to clear my way through the world, I could not shake
+hand to advance or to clear my way through the world, I could not shake
 off from my mind the impression that I was mysteriously patronized by
 Mrs. Colonel Poyntz.
 
@@ -1407,7 +1433,7 @@ talents, and, let me add, your advantages of manner and person,--a pity
 that you did not choose a career that might achieve higher fortunes and
 louder fame than the most brilliant success can give to a provincial
 physician. But in that very choice you interest me. My choice has been
-much thesame,--a small circle, but the first in it. Yet, had I been a
+much the same,--a small circle, but the first in it. Yet, had I been a
 man, or had my dear Colonel been a man whom it was in the power of a
 woman's art to raise one step higher in that metaphorical ladder which
 is not the ladder of the angels, why, then--what then? No matter! I
@@ -1479,7 +1505,7 @@ charitable. An earl's daughter, with a good income and an awfully bad
 name, of the best manners and of the worst morals, would have made sad
 havoc among the Proprieties. How many of our primmest old maids would
 have deserted tea and Mrs. Poyntz for champagne and her ladyship! The
-Hill was never in so imminenta danger. Rather than Lady Sarah Bellasis
+Hill was never in so imminent a danger. Rather than Lady Sarah Bellasis
 should have had that house, I would have taken it myself, and stocked it
 with owls.
 
@@ -1575,6 +1601,8 @@ seen her gazing into the roseate heavens.
 
 
 
+
+
 CHAPTER VIII.
 
 When I returned to the drawing-room, the party was evidently about to
@@ -1623,6 +1651,7 @@ no doubt watching us. Read this."
 She placed in my hand the note she had just received. It contained but a
 few words, to this effect:--
 
+
    DEAR MARGARET,--I am so distressed.  Since I wrote to you a few
    hours ago, Lilian is taken suddenly ill, and I fear seriously.  What
    medical man should I send for?  Let my servant have his name and
@@ -1647,6 +1676,8 @@ Here she put into my hands a note she had written while thus speaking.
 be of use, send for me." Resuming the work she had suspended, but with
 lingering, uncertain fingers, she added, "So far, then, this is settled.
 Nay, no thanks; it is but little that is settled as yet."
+
+
 
 
 
@@ -1722,6 +1753,8 @@ see nothing to warrant serious alarm."
 
 
 
+
+
 CHAPTER X.
 
 To the true physician there is an inexpressible sanctity in the sick
@@ -1731,7 +1764,7 @@ others he must put aside. He must enter that room--a calm intelligence.
 He is disabled for his mission if he suffer aught to obscure the
 keen quiet glance of his science. Age or youth, beauty or deformity,
 innocence or guilt, merge their distinctions in one common
-attribute,-human suffering appealing to human skill.
+attribute--human suffering appealing to human skill.
 
 Woe to the households in which the trusted Healer feels not on his
 conscience the solemn obligations of his glorious art! Reverently as in
@@ -1929,6 +1962,8 @@ divided, rules the heart that yearns towards it with mysterious law.
 
 
 
+
+
 CHAPTER XI.
 
 With what increased benignity I listened to the patients who visited me
@@ -1938,7 +1973,7 @@ had dawned upon my heart. My first call, when I went forth, was on the
 poor young woman from whom I had been returning the day before, when an
 impulse, which seemed like a fate, had lured me into the grounds where I
 had first seen Lilian. I felt grateful to this poor patient; without her
-Lilian herself might be yet unknown to rue.
+Lilian herself might be yet unknown to me.
 
 The girl's brother, a young man employed in the police, and whose pay
 supported a widowed mother and the suffering sister, received me at the
@@ -2009,7 +2044,7 @@ have been there at the very time I had called. I was not only dismissed
 but supplanted. I rose before he reached the spot on which I had seated
 myself, and went my way into the town, went through my allotted round of
 professional visits; but my attentions were not so tenderly devoted,
-my kill so genially quickened by the glow of benevolence, as my poorer
+my skill so genially quickened by the glow of benevolence, as my poorer
 patients had found them in the morning. I have said how the physician
 should enter the sick-room. "A Calm Intelligence!" But if you strike a
 blow on the heart, the intellect suffers. Little worth, I suspect, was
@@ -2028,6 +2063,8 @@ howsoever remote, on whom the Creator bestows the faculty of thought!
 
 
 
+
+
 CHAPTER XII.
 
 But suddenly I remembered Mrs. Poyntz. I ought to call on her. So I
@@ -2035,6 +2072,7 @@ closed my round of visits at her door. The day was then far advanced,
 and the servant politely informed me that Mrs. Poyntz was at dinner. I
 could only leave my card, with a message that I would pay my respects to
 her the next day. That evening I received from her this note:--
+
 
    Dear Dr. Fenwick,--I regret much that I cannot have the pleasure of
    seeing you to-morrow.  Poyntz and I are going to visit his brother, at
@@ -2196,7 +2234,7 @@ return for your frankness, I say frankly, do not go again to that house.
 Conquer this sentiment, fancy, passion, whatever it be. And I will
 advise Mrs. Ashleigh to take Lilian to town. Shall it be so settled?"
 
-I could not speak. I buried my face in my hands-misery, misery,
+I could not speak. I buried my face in my hands--misery, misery,
 desolation!
 
 I know not how long I remained thus silent, perhaps many minutes. At
@@ -2231,11 +2269,14 @@ broad sunlight. Solitary--solitary! Should I be so evermore?
 
 
 
+
+
 CHAPTER XIII.
 
 The next day I had just dismissed the last of my visiting patients, and
 was about to enter my carriage and commence my round, when I received a
 twisted note containing but these words:--
+
 
    Call on me to-day, as soon as you can.
 
@@ -2443,6 +2484,8 @@ another moment, and the carriage stopped at the door.
 
 
 
+
+
 CHAPTER XIV.
 
 Mrs. Ashleigh received us in the dining-room. Her manner to me, at
@@ -2630,6 +2673,8 @@ here to displace Dr. Jones." Therewith I escaped.
 
 
 
+
+
 CHAPTER XV.
 
 In less than a week Lilian was convalescent; in less than a fortnight
@@ -2738,6 +2783,8 @@ with her angel smile. As yet I had not dared to speak of love; as yet I
 gazed on her as the captive gazes on the flowers and the stars through
 the gratings of his cell, murmuring to himself, "When shall the doors
 unclose?"
+
+
 
 
 
@@ -2987,7 +3034,7 @@ we will come. So we must, unless, indeed, you positively forbid it."
 "Next Monday. Mr. Vigors would make me fix the day. If you knew how I
 dislike moving when I am once settled; and I do so dread Lady Haughton,
 she is so fine, and so satirical! But Mr. Vigors says she is very much
-altered, poor thing! I should like to show you her letter, but I bad
+altered, poor thing! I should like to show you her letter, but I had
 just sent it to Margaret--Mrs. Poyntz--a minute or two before you came.
 She knows something of Lady Haughton. Margaret knows everybody. And we
 shall have to go in mourning for poor Sir James, I suppose; and Margaret
@@ -3046,7 +3093,7 @@ and when we were out of Mrs. Ashleigh's sight and hearing, said,--
 "From what you have now seen of Lilian Ashleigh, do you still desire to
 gain her as your wife?"
 
-"Still? Ob, with an intensity proportioned to the fear with which I now
+"Still? Oh, with an intensity proportioned to the fear with which I now
 dread that she is about to pass away from my eyes--from my life!"
 
 "Does your judgment confirm the choice of your heart? Reflect before you
@@ -3143,6 +3190,8 @@ love!
 
 
 
+
+
 CHAPTER XVII.
 
 How did I utter it? By what words did my heart make itself known? I
@@ -3169,7 +3218,7 @@ Then Lilian asked me timidly, and without lifting her eyes, how I had
 so seen her, reminding me that I promised to tell her, and had never yet
 done so.
 
-And then I told her of the strange impulse that bad led me into the
+And then I told her of the strange impulse that had led me into the
 grounds, and by what chance my steps had been diverted down the path
 that wound to the glade; how suddenly her form had shone upon my
 eyes, gathering round itself the rose hues of the setting sun, and how
@@ -3280,6 +3329,8 @@ the other,'--I of you, I of you! my Lilian! my Lilian!"
 
 
 
+
+
 CHAPTER XVIII.
 
 In spite of the previous assurance of Mrs. Poyntz, it was not without an
@@ -3315,6 +3366,8 @@ from her lap, and whispered, "Lilian;" and Lilian's lips moved, but I
 did not hear her answer. Her mother did. She took Lilian's hand, simply
 placed it in mine, and said, "As she chooses, I choose; whom she loves,
 I love."
+
+
 
 
 
@@ -3381,6 +3434,8 @@ from life a blessing.
 
 
 
+
+
 CHAPTER XX.
 
 During the busy years of my professional career, I had snatched leisure
@@ -3424,6 +3479,7 @@ recent physiologists, and of which some of the most eminent of German
 metaphysicians have accepted the substance, though refining into a
 subtlety its positive form,--I mean the doctrine which Muller himself
 has expressed in these words:--
+
 
    "That innate ideas may exist cannot in the slightest degree be denied:
     it is, indeed, a fact.  All the ideas of animals, which are induced by
@@ -3496,6 +3552,8 @@ to tell his passion."--Johnson's "Lives of the Poets:" COWLEY.
 
 
 
+
+
 CHAPTER XXI.
 
 The next day, the last of the visiting patients to whom my forenoons
@@ -3561,7 +3619,7 @@ will not believe me: my good man has seen a ghost!"
 "A ghost!" said I, repressing a smile. "Well, tell me all, that I may
 prevent the ghost coming again."
 
-The woman's story was prolix. Its substance was this Her husband,
+The woman's story was prolix. Its substance was this. Her husband,
 habitually an early riser, had left his bed that morning still earlier
 than usual, to give directions about some cattle that were to be sent
 for sale to a neighbouring fair. An hour afterwards he had been found by
@@ -3585,8 +3643,8 @@ to have more than ordinary learning; and the steward himself objected to
 the apothecary in the immediate neighbourhood, as more likely to annoy
 him by gossip than a physician from a comparative distance.
 
-I took care not to lose the confidence of the good wife by parading
-too quickly my disbelief in the phantom her husband declared that he ad
+I took care not to lose the confidence of the good wife by parading too
+quickly my disbelief in the phantom her husband declared that he had
 seen; but as the story itself seemed at once to decide the nature of the
 fit to be epileptic, I began to tell her of similar delusions which, in
 my experience, had occurred to those subjected to epilepsy, and
@@ -3632,9 +3690,11 @@ faculty we call imagination, stricken down almost to Death's door by
 his fright at an optical illusion, explicable, if examined, by the same
 simple causes which had impressed me the night before with a moment's
 belief in a sound and a spectre,--me who, thanks to sublime education,
-went so quietly to sleep a few minutes after, convinced hat no phantom,
+went so quietly to sleep a few minutes after, convinced that no phantom,
 the ghostliest that ear ever heard or eye ever saw, can be anything else
 but a nervous phenomenon.
+
+
 
 
 
@@ -3664,12 +3724,13 @@ person in L---- whom he had admitted to his subsequent seclusion was
 Dr. Lloyd, who was then without practice, and whom he had employed as an
 assistant in certain chemical experiments.
 
+
 Here a gentleman struck into the conversation. He was a stranger to
 me and to L----, a visitor to one of the dwellers on the Hill, who had
 asked leave to present him to its queen as a great traveller and an
 accomplished antiquary.
 
- Said this gentleman: "Sir Philip Derval?  I know him.  I met him in the
+Said this gentleman: "Sir Philip Derval? I know him. I met him in the
 East. He was then still, I believe, very fond of chemical science; a
 clever, odd, philanthropical man; had studied medicine, or at least
 practised it; was said to have made many marvellous cures. I became
@@ -3809,8 +3870,8 @@ ladies).
 
 "Ay, true; the vulgar proverb says it is good to be born with a silver
 spoon in one's mouth: so it is when one has one's own family crest on
-it; ut when it is a spoon on which people recognize their family crest,
-and cry out, 'Stolen from our plate chest,' it is a heritage that
+it; but when it is a spoon on which people recognize their family
+crest, and cry out, 'Stolen from our plate chest,' it is a heritage that
 outlaws a babe in his cradle. However, young men at college who want
 money are less scrupulous about descent than boys at Eton are. Louis
 Grayle found, while at college, plenty of wellborn acquaintances willing
@@ -3896,6 +3957,7 @@ taken it; but when you leave the world for good, who remembers that you
 had ever a place even in the parish register?"
 
 "Nevertheless," said I, "a great poet has said, finely and truly,
+
 
    "'The sun of Homer shines upon us still.'"
 
@@ -3986,6 +4048,8 @@ to later.
 
 
 
+
+
 CHAPTER XXIII.
 
 It was late in the afternoon of the following day before I was able to
@@ -4067,6 +4131,8 @@ a sigh.
 
 
 
+
+
 CHAPTER XXIV.
 
 The house I occupied at L---- was a quaint, old-fashioned building, a
@@ -4129,7 +4195,7 @@ I was up as usual, a little before the sun, and long before any of my
 servants were astir. I went first into the room I have mentioned, and
 which I shall henceforth designate as my study, opened the window,
 unlocked the gate, and sauntered for some minutes up and down the silent
-lace skirting the opposite wall, and overhung by the chestnut-trees
+lane skirting the opposite wall, and overhung by the chestnut-trees
 rich in the garniture of a glorious summer; then, refreshed for work,
 I re-entered my study, and was soon absorbed in the examination of
 that now well-known machine, which was then, to me at least, a
@@ -4548,6 +4614,8 @@ support and in ornament of their lofty cause.
 
 
 
+
+
 CHAPTER XXV.
 
 My intercourse with Margrave grew habitual and familiar. He came to
@@ -4630,6 +4698,8 @@ serpent."
 
 
 
+
+
 CHAPTER XXVI.
 
 Increased intimacy with my new acquaintance did not diminish the charm
@@ -4645,7 +4715,7 @@ was seldom accurate; it could apprehend, but did not hold together with
 a binding grasp what metaphysicians call "complex ideas." He thus seemed
 unable to put it to any steadfast purpose in the sciences of which
 it retained, vaguely and loosely, many recondite principles. For
-the sublime and beautiful in literature lie had no taste whatever. A
+the sublime and beautiful in literature he had no taste whatever. A
 passionate lover of nature, his imagination had no response to the arts
 by which nature is expressed or idealized; wholly unaffected by poetry
 or painting. Of the fine arts, music alone attracted and pleased him.
@@ -5045,6 +5115,8 @@ may help you. Adieu!"
 
 
 
+
+
 CHAPTER XXVII.
 
 When Margrave had gone, I glanced at the clock,--not yet nine. I
@@ -5052,7 +5124,7 @@ resolved to go at once to Mrs. Poyntz. It was not an evening on
 which she received, but doubtless she would see me. She owed me an
 explanation. How thus carelessly divulge a secret she had been enjoined
 to keep; and this rival, of whom I was ignorant? It was no longer a
-matter of wonder that Hargrave should have described Lilian's peculiar
+matter of wonder that Margrave should have described Lilian's peculiar
 idiosyncrasies in his sketch of his fabulous Pythoness. Doubtless Mrs.
 Poyntz had, with unpardonable levity of indiscretion, revealed all of
 which she disapproved in my choice. But for what object? Was this
@@ -5131,6 +5203,7 @@ had lost; that loss had made her turn to the ties of blood still left to
 her; she had heard much of Lilian from their common friend, Mr. Vigors;
 she longed to embrace so charming a niece. Then followed the invitation
 and the postscript. The postscript ran thus, so far as I can remember:--
+
 
    "Whatever my own grief at my irreparable bereavement, I am no egotist;
     I keep my sorrow to myself.  You will find some pleasant guests at my
@@ -5231,6 +5304,8 @@ Still incredulous, but disguising my incredulity with that convenient
 smile by which we accomplish so much of the polite dissimulation
 indispensable to the decencies of civilized life, I took my departure,
 returned home, and wrote to Lilian.
+
+
 
 
 
@@ -5499,6 +5574,8 @@ contemptuously glanced.
 
 
 
+
+
 CHAPTER XXIX.
 
 I did not see Margrave the following day, but the next morning, a little
@@ -5662,6 +5739,7 @@ own attachment, and the offer of his own hand. On Lilian's refusal his
 pride had been deeply mortified. He had gone away manifestly in more
 anger than sorrow.
 
+
    "Lady Delafield, dear Margaret Poyntz's aunt, had been most kind in
     trying to soothe Lady Haughton's disappointment, which was rudely
     expressed,--so rudely," added Mrs. Ashleigh, "that it gives us an
@@ -5692,6 +5770,8 @@ serpent-charmer charms the serpent,--sweet, so sweet, the very birds on
 the boughs hushed their carol as if to listen.
 
 (1) See Sir Humphrey Davy on Heat, Light, and the Combinations of Light
+
+
 
 
 
@@ -5743,9 +5823,10 @@ with his wild notions, his strange beauty!--true--true--he might
 dangerously encourage that turn for the mystic and visionary which
 distresses me in Lilian. Lilian should not know him. How induce him to
 leave L----? Ah, those experiments on which he asks my assistance! I
-might commence them when he comes again, and then invent some excuse
-tosend him for completer tests to the famous chemists of Paris or
-Berlin."
+might commence them when he comes again, and then invent some excuse to
+send him for completer tests to the famous chemists of Paris or Berlin."
+
+
 
 
 
@@ -5886,7 +5967,7 @@ I took my place by his side. The room was still deserted; now and then
 a straggler from the ballroom looked in for a moment, and then sauntered
 back to the central place of attraction.
 
-"I ain trying to guess," said I, "how my name should be known to you.
+"I am trying to guess," said I, "how my name should be known to you.
 Possibly you may, in some visit to the Lakes, have known my father?"
 
 "No; I know none of your name but yourself,--if, indeed, as I doubt not,
@@ -5916,7 +5997,7 @@ living relation. Are we friends now?"
 
 I answered confusedly. I had almost forgotten the circumstances referred
 to. Richard Strahan had not been one of my more intimate companions, and
-I bad never seen nor heard of him since leaving college. I inquired what
+I had never seen nor heard of him since leaving college. I inquired what
 had become of him.
 
 "He is at the Scotch Bar," said Sir Philip, "and of course without
@@ -6078,6 +6159,7 @@ separate it from the intelligence!"
 
 "Can you not? A blow on the brain can destroy the intelligence! Do you
 think it can destroy the soul?
+
 
    'From Marlbro's eyes the tears of dotage flow,
     And Swift expires, a driveller and a show.'
@@ -6244,6 +6326,8 @@ looked round, but did not see Sir Philip.
 
 
 
+
+
 CHAPTER XXXII.
 
 MARGRAVE threw himself on a seat just under the great anaconda; I closed
@@ -6368,7 +6452,7 @@ I could fix it to no single organ. Nay, wherever I looked through the
 system, it reflected itself as a star reflects itself upon water. And I
 observed that while the red light was growing feebler and feebler, and
 the azure light was confused, irregular,--now obstructed, now hurrying,
-now almost lost,--the silvery spark was unaltered, un disturbed. So
+now almost lost,--the silvery spark was unaltered, undisturbed. So
 independent was it of all which agitated and vexed the frame, that I
 became strangely aware that if the heart stopped in its action, and the
 red light died out; if the brain were paralyzed, that energetic mind
@@ -6437,9 +6521,9 @@ spark rose from the ruins and the tumult around it,--rose into space and
 vanished; and where my soul had recognized the presence of soul, there
 was a void. But the red light burned still, becoming more and more
 vivid; and as it thus repaired and recruited its lustre, the whole
-animal form, which had been so decrepit, grew restored from decay, grew
-into vigour and youth: and I saw Alargrave as I had seen him in the
-waking world, the radiant image of animal life in the beauty of its
+animal form, which had been so decrepit, grew restored from decay,
+grew into vigour and youth: and I saw Margrave as I had seen him in
+the waking world, the radiant image of animal life in the beauty of its
 fairest bloom.
 
 And over this rich vitality and this symmetric mechanism now reigned
@@ -6497,6 +6581,8 @@ A hand here again touched my forehead, the light in the lamp was
 extinguished, I became insensible; and when I recovered I found myself
 back in the room in which I had first conversed with Sir Philip Derval,
 and seated, as before, on the sofa, by his side.
+
+
 
 
 
@@ -6660,6 +6746,8 @@ notice me; his eyes seemed fixed abstractedly on space.
 
 
 
+
+
 CHAPTER XXXIV.
 
 I walked on slowly and with the downcast brow of a man absorbed in
@@ -6668,7 +6756,7 @@ the town converged, when I was overtaken by a violent storm of rain. I
 sought shelter under the dark archway of that entrance to the district
 of Abbey Hill which was still called Monk's Gate. The shadow within
 the arch was so deep that I was not aware that I had a companion till
-I beard my own name, close at my side. I recognized the voice before I
+I heard my own name, close at my side. I recognized the voice before I
 could distinguish the form of Sir Philip Derval.
 
 "The storm will soon be over," said he, quietly. "I saw it coming on in
@@ -6819,6 +6907,8 @@ have been mightily perplexed."
 
 
 
+
+
 CHAPTER XXXV.
 
 On reaching my own home, I found my servant sitting up for me with the
@@ -6902,7 +6992,7 @@ chanced upon its victim. But, in that case, how account for the long
 interval that had elapsed between the time in which I had left Sir
 Philip under the arch and the time in which the murder must have been
 committed? Sir Philip could not have been wandering through the streets
-all those hours. This doubt, how ever, was easily and speedily cleared
+all those hours. This doubt, however, was easily and speedily cleared
 up. A Mr. Jeeves, who was one of the principal solicitors in the town,
 stated that he had acted as Sir Philip's legal agent and adviser
 ever since Sir Philip came of age, and was charged with the exclusive
@@ -7077,9 +7167,10 @@ Philip's decease. The codicil, added to the will the night before his
 death, increased the legacy to the young lady from L10,000 to L30,000,
 and bequeathed an annuity of L100 a year to his Albanian servant.
 Accompanying the will, and within the same envelope, was a sealed
-letter, addressed to Richard Strahan, and dated at Paris two weeks be
-fore Sir Philip's decease. Strahan brought that letter to me. It ran
+letter, addressed to Richard Strahan, and dated at Paris two weeks
+before Sir Philip's decease. Strahan brought that letter to me. It ran
 thus:--
+
 
    "Richard Strahan, I advise you to pull down the house called Derval
     Court, and to build another on a better site, the plans of which, to
@@ -7185,7 +7276,7 @@ thus:--
 
    "If these lines ever reach you, recognize my title to reverential
     obedience to commands which may seem to you wild, perhaps irrational;
-    and repay, as if a debt due froth your own lost sister, the affection
+    and repay, as if a debt due from your own lost sister, the affection
     I have borne to you for her sake."
 
 While I read this long and strange letter, Strahan sat by my side,
@@ -7221,6 +7312,8 @@ consigned to the family vault."
 Strahan seemed to have some superstitious notion that the murderer might
 be more secure from justice if his victim were thrust unavenged into the
 tomb.
+
+
 
 
 
@@ -7306,6 +7399,8 @@ tumultuously whirled along, when, on returning home, I found a note from
 Mrs. Ashleigh. She and Lilian had just come back to L----, sooner than
 she had led me to anticipate. Lilian had not seemed quite well the last
 day or two, and had been anxious to return.
+
+
 
 
 
@@ -7441,7 +7536,7 @@ jealous rage! I breathed more freely. Margrave had disappeared!
 aloud, though speaking to myself.
 
 Lilian remained silent, her eyes fixed upon the ground as if in deep
-revery. I took her band; it did not return my pressure. I felt cut to
+revery. I took her hand; it did not return my pressure. I felt cut to
 the heart when she drew coldly from me that hand, till then so frankly
 cordial. I stopped short: "Lilian, what is this? you are chilled towards
 me. Can the mere sound of that man's voice, the mere glimpse of that
@@ -7530,9 +7625,12 @@ seized my hat and took my departure.
 
 
 
+
+
 CHAPTER XXXVIII.
 
 Letter from Allen Fenwick to Lilian Ashleigh.
+
 
    "I have promised to go to Derval Court to-day, and shall not return
     till to-morrow.  I cannot bear the thought that so many hours should
@@ -7542,6 +7640,7 @@ Letter from Allen Fenwick to Lilian Ashleigh.
     cover with grateful kisses till we meet again!"
 
 Reply.
+
 
    "I scarcely know what you mean, nor do I quite understand my own state
     of mind at this moment.  It cannot be that I love you less--and
@@ -7735,7 +7834,7 @@ poor Sir Philip's high opinion of his own scientific discoveries; that
 part of his letter seems to me very queer, and very flighty. But he
 evidently set his heart on the publication of his work, in part if
 not in whole; and, naturally, I must desire to comply with a wish so
-distinctly intimated by one to whom I owe so much. I be, you, therefore,
+distinctly intimated by one to whom I owe so much. I beg you, therefore,
 not to be too fastidious. Some valuable hints in medicine, I have reason
 to believe, the manuscript will contain, and those may help you in your
 profession, Allen."
@@ -7794,6 +7893,8 @@ provoked my sceptic smile.
 
 
 
+
+
 CHAPTER XXXIX.
 
 The Manuscript was written in a small and peculiar handwriting, which,
@@ -7808,7 +7909,7 @@ impress the contents more deeply on remembrance.
 
 The narrative commenced with the writer's sketch of his childhood. Both
 his parents had died before he attained his seventh year. The orphan
-bad been sent by his guardians to a private school, and his holidays had
+had been sent by his guardians to a private school, and his holidays had
 been passed at Derval Court. Here his earliest reminiscences were those
 of the quaint old room, in which I now sat, and of his childish wonder
 at the inscription on the chimneypiece--who and what was the Simon
@@ -7898,11 +7999,12 @@ which my interest was the keenest. What were the links which connected
 the existence of Margrave with the history of Sir Philip Derval? Thus
 hurrying on, page after page, I suddenly, towards the end of the volume,
 came upon a name that arrested all my attention,--Haroun of Aleppo. He
-who has read the words addressed to mee in my trance may well conceive
+who has read the words addressed to me in my trance may well conceive
 the thrill that shot through my heart when I came upon that name, and
 will readily understand how much more vividly my memory retains that
 part of the manuscript to which I now proceed, than all which had gone
 before.
+
 
    "It was," wrote Sir Philip, "in an obscure suburb of Aleppo that I at
     length met with the wonderful man from whom I have acquired a
@@ -8323,6 +8425,7 @@ jewels he wore about him, or for the sake of treasures less doubtful
 than those imputed to Haroun, and of which the hiding-place would be to
 them much better known.
 
+
    "I did not share that opinion," wrote the narrator, "for I assured
     myself that Ayesha sincerely loved her awful master; and that love
     need excite no wonder, for Louis Grayle was one whom if a woman, and
@@ -8374,7 +8477,7 @@ them much better known.
     faculties which, skilful in sorcery, still place a mind at the
     control of their malice?
 
-   "It, was in the interest excited in me by the strange and terrible fate
+   "It was in the interest excited in me by the strange and terrible fate
     that befell an Armenian family with which I was slightly acquainted,
     that I first traced--in the creature I am now about to describe, and
     whose course I devote myself to watch, and trust to bring to a
@@ -8454,6 +8557,8 @@ marvels he recounts are to the bewildered reason of Fenwick the Sceptic?
 
 
 
+
+
 CHAPTER XL.
 
 The dead man's manuscript was gone. But how? A phantom might delude my
@@ -8493,7 +8598,7 @@ yet more incredible of which I myself had been witness and victim, that
 as I turned down the passage, I heard my own unconscious half-hysterical
 laugh; and, startled by the sound of that laugh as if it came from some
 one else, I paused, my hand on the door, and asked myself: "Do I dream?
-Am I awake? And if awake what am I to say to the common place mortal I
+Am I awake? And if awake what am I to say to the commonplace mortal I
 am about to rouse? Speak to him of a phantom! Speak to him of some weird
 spell over this strong frame! Speak to him of a mystic trance in which
 has been stolen what he confided to me, without my knowledge! What will
@@ -8687,7 +8792,7 @@ relatives. He had put up at a small inn, after which he had strolled
 through the town, when the storm had driven him to seek shelter. He had
 then failed to find his way back to the inn, and after wandering about
 in vain, and seeing no one at that late hour of night of whom he could
-ask the way, lie had crept under a portico and slept for two or three
+ask the way, he had crept under a portico and slept for two or three
 hours. Waking towards the dawn, he had then got up, and again sought to
 find his way to the inn, when he saw, in a narrow street before him,
 two men, one of whom he recognized as the taller of the two to whose
@@ -8763,7 +8868,7 @@ and of magic arts? I--I tell such a romance! I,--the noted adversary of
 all pretended mysticism; I,--I a sceptical practitioner of medicine! Had
 that manuscript of Sir Philip's been available,--a substantial record
 of marvellous events by a man of repute for intellect and learning,--I
-might perhaps have ventured to startle the solicitor of I--with my
+might perhaps have ventured to startle the solicitor of L------ with my
 revelations. But the sole proof that all which the solicitor urged me
 to confide was not a monstrous fiction or an insane delusion had
 disappeared; and its disappearance was a part of the terrible mystery
@@ -8940,7 +9045,7 @@ find his way?"
 
 "Your suggestions are sensible, Dr. Fenwick. I have forestalled them. It
 is true that the man lodged at a small inn,--the Rising Sun; true
-that lie made inquiries about some relations of the name of Walls, who
+that he made inquiries about some relations of the name of Walls, who
 formerly resided at L----, and afterwards removed to a village ten
 miles distant,--two brothers, tradesmen of small means but respectable
 character. He at first refused to say at what seaport he landed, in what
@@ -8967,6 +9072,8 @@ I arose and moved away with an impatient gesture. I could not trust
 myself to speak. That night I did not sleep; I watched impatiently,
 gazing on the opposite wall for the gleam of the Scin-Laeca. But the
 night passed away, and the spectre did not appear.
+
+
 
 
 
@@ -9403,6 +9510,8 @@ Ashleigh's house.
 
 
 
+
+
 CHAPTER XLII.
 
 It was twilight when I entered, unannounced (as had been my wont in our
@@ -9488,6 +9597,8 @@ at her feet, and cried, "Do not let us break a tie which our vows should
 have made indisoluble; heed not my offers, wrung from a tortured heart!
 You cannot have ceased to love me!" But no such symptom of relenting
 showed itself in her, and with a groan I left the room.
+
+
 
 
 
@@ -9699,6 +9810,8 @@ hand to him!
 
 
 
+
+
 CHAPTER XLIV.
 
 The next day my house was filled with visitors. I had no notion that I
@@ -9797,7 +9910,7 @@ worlds, of which even the traditionary rumour was but a voice from the
 land of fable--nought left but broken vestiges of a daring footstep! The
 hope of a name imperishable amidst the loftiest hierarchy of Nature's
 secret temple, with all the pomp of recorded experiment, that applied to
-the mysteries of Egypt and Chaldwa the inductions of Bacon, the tests
+the mysteries of Egypt and Chaldaea the inductions of Bacon, the tests
 of Liebig--was there nothing left of this but what, here and there,
 some puzzled student might extract, garbled, mutilated, perhaps
 unintelligible, from shreds of sentences, wrecks of problems! O mind of
@@ -9937,6 +10050,8 @@ suddenly at my side.
 
 
 
+
+
 CHAPTER XLV.
 
 Explanation on Faber's part was short and simple. The nephew whom he
@@ -10020,7 +10135,7 @@ girl, she went on before us, turning her head, as she gained the gate,
 for another look at her father's grave. As we walked to my house, Julius
 Faber spoke to me much of this child. Her brothers were all at school;
 she was greatly attached to his nephew's wife; she had become yet more
-attached to Faber himself, though on so short an acquaintance; it bad
+attached to Faber himself, though on so short an acquaintance; it had
 been settled that she was to accompany the emigrants to Australia.
 
 "There," said he, "the sum, that some munificent, but unknown friend
@@ -10416,9 +10531,9 @@ this phenomenon, which he states "all of us may experience ":--
 
 "When the impressions are very vivid" (Dr. Roget is speaking of visual
 impressions), "another phenomenon often takes place,--namely, their
-_subsequent recurrence after a certain interval, during which they are
+subsequent recurrence after a certain interval, during which they are
 not felt, and quite independently of any renewed application of the
-cause which had originally excited them."_ (I mark by italics the words
+cause which had originally excited them." (I mark by italics the words
 which more precisely coincide with Julius Faber's explanations.) "If,
 for example, we look steadfastly at the sun for a second or two, and
 then immediately close our eyes, the image, or spectrum, of the sun
@@ -10464,9 +10579,11 @@ been previously impressed."
 
 
 
+
+
 CHAPTER XLVI.
 
-Julius Faber and Amy Lloyd stayed in my house three day, I and in their
+Julius Faber and Amy Lloyd stayed in my house three days, I and in their
 presence I felt a healthful sense of security and peace. Amy wished to
 visit her father's house, and I asked Faber, in taking her there, to
 seize the occasion to see Lilian, that he might communicate to me his
@@ -10545,7 +10662,7 @@ out of his profession; he was impatient to sell his property, and
 disposed to accept an offer at half its value. I insisted on taking
 on myself the task of negotiator; perhaps, too, in this office I was
 egotistically anxious to prove to the great physician that which he
-believed to be my "hallucination" had in no way obscured my common-sense
+believed to be my "hallucination" had in no way obscured my commonsense
 in the daily affairs of life. So I concluded, and in a few hours,
 terms for his property that were only just, but were infinitely more
 advantageous than had appeared to himself to be possible. But as I
@@ -10592,6 +10709,7 @@ all our speculations on a Deity who would cease to exist for us when we
 are in the grave? Why mete out, like Archytas, the earth and the sea,
 and number the sands on the shore that divides them, if the end of this
 wisdom be a handful of dust sprinkled over a skull!
+
 
    "'Nec quidquam tibi prodest
      Aerias tentasse dornos, animoque rotundum
@@ -10723,6 +10841,8 @@ Theology.
 
 
 
+
+
 CHAPTER XLVII.
 
 That night, as I sat in my study, very thoughtful and very mournful, I
@@ -10748,6 +10868,8 @@ gleamed through the window, my heart escaped from the labour of my mind,
 and flew back to the image of Lilian. The pride of the philosopher died
 out of me, the sorrow of the man reigned supreme, and I shrank from the
 coming of the sun, despondent.
+
+
 
 
 
@@ -10909,6 +11031,8 @@ date at which my narrative has now arrived.
 
 
 
+
+
 CHAPTER XLIX.
 
 I had no case that necessitated my return to L---- the following day.
@@ -11005,11 +11129,11 @@ Apollo in one aspect, direful as Typhon in another?
 
 
 
+
+
 CHAPTER L.
 
-"What a strange-looking cane you have, sir!" said a little girl, who was
-one of the party, and who had entwined her arm round Margrave's. "Let me
-look at it."
+ "What a strange-looking cane you have, sir!" said a little girl, who was one of the party, and who had entwined her arm round Margrave's. "Let me look at it."
 
 "Yes," said Strahan, "that cane, or rather walking-staff, is worth
 looking at. Margrave bought it in Egypt, and declares that it is very
@@ -11114,6 +11238,7 @@ hours.
 
 Its colour is so dark as not to be distinguished from black.
 
+
                                                 P. M. COLQUHOUN.
 
 Corfu, 7th Nov., 1860.
@@ -11124,11 +11249,12 @@ except that they are "intensely black and highly polished," and which
 are applied, in much the same manner, to the wounds inflicted by the
 cobra-capella.
 
-
 QUERY.-Might it not be worth while to ascertain the chemical properties
 of these stones, and, if they be efficacious in the extraction of venom
 conveyed by a bite, might they not be as successful if applied to the
 bite of a mad dog as to that of a cobra-capella?
+
+
 
 
 
@@ -11282,6 +11408,8 @@ a dream!"
 
 
 
+
+
 CHAPTER LII.
 
 A heavy sleep came over me at daybreak, but I did not undress nor go to
@@ -11417,6 +11545,8 @@ dream, or neither?
 
 
 
+
+
 CHAPTER LIII.
 
 There is an instance of the absorbing tyranny of every-day life which
@@ -11521,11 +11651,11 @@ Mrs. Ashleigh began reluctantly to relinquish the persuasion she had so
 long and so obstinately maintained, that this state of feeling towards
 myself--and, indeed, this general change in Lilian--was but temporary
 and abnormal; she began to allow that it was best to drop all thoughts
-ofa renewed engagement,--a future union. I proposed to see Lilian in her
-presence and in my professional capacity; perhaps some physical cause,
-especially for this lethargy, might be detected and removed. Mrs.
-Ashleigh owned to me that the idea had occurred to herself: she had
-sounded Lilian upon it: but her daughter had so resolutely opposed
+of a renewed engagement,--a future union. I proposed to see Lilian in
+her presence and in my professional capacity; perhaps some physical
+cause, especially for this lethargy, might be detected and removed.
+Mrs. Ashleigh owned to me that the idea had occurred to herself: she
+had sounded Lilian upon it: but her daughter had so resolutely opposed
 it,--had said with so quiet a firmness "that all being over between us,
 a visit from me would be unwelcome and painful,"--that Mrs. Ashleigh
 felt that an interview thus deprecated would only confirm estrangement.
@@ -11579,6 +11709,8 @@ where you fix yourself. I will seize a holiday,--I need one; I will
 arrange as to my patients; I will come to the same place; she need not
 know of it, but I must be by to watch, to hear your news of her. Heaven
 bless you for what you have said! I hope!--I do hope!"
+
+
 
 
 
@@ -11643,6 +11775,8 @@ and without one suspicion that imputed blame to her.
 
 "Be quiet, be silent; perhaps she has gone on some visit and will
 return. Meanwhile, leave inquiry to me."
+
+
 
 
 
@@ -12129,6 +12263,8 @@ Nature to the Physical Condition of Man (Sect. iii. p. 18).
 
 
 
+
+
 CHAPTER LVI.
 
 Lilian recovered, but the strange thing was this: all memory of the
@@ -12230,6 +12366,8 @@ be, that when the memory is impaired to a certain degree, the loss of
 it extends backward to some event or some period by which a particularly
 deep impression had been made upon the mind."--ABERCROMBIE: On the
 Intellectual Powers, pp. 118, 119 (15th edition).
+
+
 
 
 
@@ -12522,6 +12660,8 @@ remorseless eye.
 
 
 
+
+
 CHAPTER LVIII.
 
 If ever my heart vowed itself to Lilian, the vow was now the most
@@ -12567,8 +12707,9 @@ in its cage has a heart: soul--what a soul!"
 
 
 
-CHAPTER LIX.
 
+
+CHAPTER LIX.
 
 How innocent was Lilian's virgin blush when I knelt to her, and prayed
 that she would forestall the date that had been fixed for our union, and
@@ -12701,6 +12842,8 @@ hallows its own heart into a sanctuary of refuge for the beloved!
 
 
 
+
+
 CHAPTER LX.
 
 The beautiful lake! We two are on its grassy margin,--twilight melting
@@ -12750,6 +12893,8 @@ action. Is it not so?"
 Here Mrs. Ashleigh joined us. For the first time I slept under the same
 roof as Lilian. And I forgot that the universe contained an enigma to
 solve or an enemy to fear.
+
+
 
 
 
@@ -12950,7 +13095,7 @@ science! I--I, Allen Fenwick, not only the credulous believer, but the
 blundering practitioner, of an evil magic! Grant what may be possible,
 however uncomprehended,--grant that in this accursed instrument of
 antique superstition there be some real powers--chemical, magnetic, no
-matter what-by which the imagination can be aroused, inflamed, deluded,
+matter what--by which the imagination can be aroused, inflamed, deluded,
 so that it shapes the things I have seen, speaks in the tones I have
 heard,--grant this, shall I keep ever ready, at the caprice of will, a
 constant tempter to steal away my reason and fool my senses? Or if,
@@ -12992,6 +13137,8 @@ will be found for each wound! Love me ever as now, oh, my Lilian; troth
 to troth, side by side, till the grave!"
 
 "And beyond the grave," answered Lilian, softly.
+
+
 
 
 
@@ -13053,6 +13200,8 @@ brain. We bore her, by gentle stages, to London. I was sanguine of good
 result from skill more consummate than mine, and more especially devoted
 to diseases of the mind. I summoned the first advisers. In vain! in
 vain!
+
+
 
 
 
@@ -13124,11 +13273,13 @@ my return to L---- I sometimes met her, on the spacious platform of the
 Hill, drawn along slowly in a Bath chair, her livid face peering forth
 from piles of Indian shawls and Siberian furs, and the gaunt figure
 of Dr. Jones stalking by her side, taciturn and gloomy as some sincere
-mourner who conducts to the grave the patron on whose life he him self
+mourner who conducts to the grave the patron on whose life he himself
 had conveniently lived. It was in the dismal month of February that I
 returned to L----, and I took possession of my plighted nuptial home on
 the anniversary of the very day in which I had passed through the dead
 dumb world from the naturalist's gloomy death-room.
+
+
 
 
 
@@ -13194,6 +13345,8 @@ ask, in a trembling whisper, "Lilian, are the angels watching over
 you?" and she would answer "Yes," sometimes in words, sometimes with a
 mysterious happy smile--then--then I went to my lonely room, comforted
 and thankful.
+
+
 
 
 
@@ -13303,6 +13456,7 @@ practitioner to the scope of his knowledge as a philosopher, then
 proceeded to give me a hope which I had not dared of myself to form. He
 said:--
 
+
    "I distinguish the case you so minutely detail from that insanity which
     is reason lost; here it seems rather to be reason held in suspense.
     Where there is hereditary predisposition, where there is organic
@@ -13374,7 +13528,7 @@ towards me, and evidently listened with attention. He wrote how the
 child had already become the most useful person in the simple household.
 How watchful the quickness of the heart had made the service of the eye;
 all their associations of comfort had grown round her active, noiseless
-movements; it was she who bad contrived to monopolize the management,
+movements; it was she who had contrived to monopolize the management,
 or supervision, of all that added to Home the nameless, interior charm.
 Under her eyes the rude furniture of the log-house grew inviting with
 English neatness; she took charge of the dairy; she had made the garden
@@ -13414,8 +13568,8 @@ Marriage-bells. Do not let her hear them; for there is a cruel wind that
 whispers the bells, and the bells ring out what it whispers, louder and
 louder,
 
-"'Stain on lily  Shame on lily,
-  Wither lily.'
+
+"'Stain on lily Shame on lily,  Wither lily.'
 
 "If she hears what the wind whispers to the bells, she will creep away
 into the dark, and then she, too, will turn to Nightshade."
@@ -13463,6 +13617,8 @@ bended head, as if in blessing.
 
 I rose; stole back to my own room, closing the door, lest the sob I
 could not stifle should mar her sleep.
+
+
 
 
 
@@ -13523,6 +13679,8 @@ renounced my practice, I received an urgent entreaty from Miss Brabazon
 to call on her. She wrote in lines so blurred that I could with
 difficulty decipher them, that she was very ill, given over by Dr.
 Jones, who had been attending her. She implored my opinion.
+
+
 
 
 
@@ -13733,7 +13891,7 @@ shallow as ever made the frivolity of woman a theme for the satire of
 poets, had sufficed, in devastating the field of my affections, to blast
 the uses for which I had cultured my mind; and had my intellect been as
 great as heaven ever gave to man, it would have been as vain a shield as
-mine against the shaft that bad lodged in my heart. While I had, indeed,
+mine against the shaft that had lodged in my heart. While I had, indeed,
 been preparing my reason and my fortitude to meet such perils, weird and
 marvellous, as those by which tales round the winter fireside scare the
 credulous child, a contrivance--so vulgar and hackneyed that not a day
@@ -13820,6 +13978,8 @@ separated my blighted fairy-land from the common thoroughfare.
 
 
 
+
+
 CHAPTER LXVIII.
 
 That night as I was employed in collecting the books and manuscripts
@@ -13856,6 +14016,7 @@ My eye fell on this passage in the lofty argument between the Angel
 whose name was Uriel, and the Prophet, perplexed by his own cravings for
 knowledge:--
 
+
    "He (the Angel) answered me, and said, I went into a forest, into a
     plain, and the trees took counsel,
 
@@ -13871,14 +14032,14 @@ knowledge:--
    "The thought of the floods of the sea came likewise to nought, for the
     sand stood up and stopped them.
 
-   "If thou went judge now betwixt these two, whom wouldst thou begin to
+   "If thou wert judge now betwixt these two, whom wouldst thou begin to
     justify; or whom wouldst thou condemn?
 
    "I answered and said, Verily it is a foolish thought that they both
     have devised; for the ground is given unto the wood, and the sea also
     hath his place to bear his floods.
 
-   "Then answered he me, and said, Thou halt given a right judgment; but
+   "Then answered he me, and said, Thou hast given a right judgment; but
     why judgest thou not thyself also?
 
    "For like as the ground is given unto the wood, and the sea to his
@@ -13893,6 +14054,7 @@ unquiet thought.
 (1) Such is the supposition of Jahn. Dr. Lee, however, is of opinion
 that the author was contemporary, and, indeed, identical, with the
 author of the Book of Enoch.
+
 
 
 
@@ -13952,6 +14114,8 @@ mysteriously lighted my heart to her view, it was gone. But drawing her
 nearer towards me, my eye long followed wistfully the path of light,
 dividing the darkness on either hand, till it closed in the sloping
 horizon.
+
+
 
 
 
@@ -14033,7 +14197,7 @@ into what seemed spontaneous additions of her own,--wanting intelligible
 meaning, but never melody nor rhyme. Strange, that memory and
 imitation--the two earliest parents of all inventive knowledge--should
 still be so active, and judgment--the after faculty, that combines the
-rest into purpose and method-be annulled!
+rest into purpose and method--be annulled!
 
 Julius Faber I see continually, though his residence is a few miles
 distant. He is sanguine as to Lilian's ultimate recovery; and, to my
@@ -14072,17 +14236,11 @@ Courses and tributary streams.
 
 
 
+
+
 CHAPTER LXXI.
 
-"You may remember," said Julius Faber, "Sir Humphry Davy's eloquent
-description of the effect produced on him by the inhalation of nitrous
-oxide. He states that he began to lose the perception of external
-things; trains of vivid visible images rapidly passed through his mind,
-and were connected with words in such a manner as to produce perceptions
-perfectly novel. 'I existed,' he said, 'in a world of newly-connected
-and newly-modified ideas.' When he recovered, he exclaimed: 'Nothing
-exists but thoughts; the universe is composed of impressions, ideas,
-pleasures, and pains!'
+ "You may remember," said Julius Faber, "Sir Humphry Davy's eloquent description of the effect produced on him by the inhalation of nitrous oxide. He states that he began to lose the perception of external things; trains of vivid visible images rapidly passed through his mind, and were connected with words in such a manner as to produce perceptions perfectly novel. 'I existed,' he said, 'in a world of newly-connected and newly-modified ideas.' When he recovered, he exclaimed: 'Nothing exists but thoughts; the universe is composed of impressions, ideas, pleasures, and pains!'
 
 "Now observe, that thus a cultivator of positive science, endowed with
 one of the healthiest of human brains, is, by the inhalation of a gas,
@@ -14262,7 +14420,7 @@ proportion as the state of the atmosphere serves to depress or augment
 the electricity stored in themselves. Here, then, in the midst of
 vagrant phenomena, either too hastily dismissed as altogether the tricks
 of fraudful imposture, or too credulously accepted as supernatural
-portents-here, at least, in one generalized fact, we may, perhaps, find
+portents--here, at least, in one generalized fact, we may, perhaps, find
 a starting point, from which inductive experiment may arrive, soon
 or late, at a rational theory. But however the power of which we are
 speaking (a power accorded to special physical temperament) may or may
@@ -14442,11 +14600,11 @@ you now add a new one, more startling and less admitted by sober
 physiologists. You conceive it possible that persons endowed with a rare
 and peculiar temperament can so operate on imagination, and, through
 the imagination, on the senses of others, as to exceed even the powers
-ascribed to the practitioners of mesmerism' and electro-biology,
-and give a certain foundation of truth to the old tales of magic and
-witchcraft. You imply that Margrave may be a person thus gifted, and
-hence the influence he unquestionably exercised over Lilian, and over,
-perhaps, less innocent agents, charmed or impelled by his will. And not
+ascribed to the practitioners of mesmerism and electro-biology, and give
+a certain foundation of truth to the old tales of magic and witchcraft.
+You imply that Margrave may be a person thus gifted, and hence the
+influence he unquestionably exercised over Lilian, and over, perhaps,
+less innocent agents, charmed or impelled by his will. And not
 discarding, as I own I should have been originally induced to do,
 the queries or suggestions adventured by Bacon in his discursive
 speculations on Nature, to wit, 'that there be many things, some of them
@@ -14832,6 +14990,8 @@ to Kirby's "Bridgewater Treatise."
 
 
 
+
+
 CHAPTER LXXII.
 
 I turned back alone. The sun was reddening the summits of the distant
@@ -15027,6 +15187,8 @@ perceptibly, ebbed from her life away.
 
 
 
+
+
 CHAPTER LXXIII.
 
 Months upon months have rolled on since the night in which Lilian had
@@ -15212,6 +15374,7 @@ I were compelled to make that admission, it would not shock my pride.
 I do not presume to set any limit to the goodness of the Creator; and
 should be as humbly pleased as the Indian, if in--
 
+
    "'yonder sky,
     My faithful dog should bear me company.'
 
@@ -15289,6 +15452,7 @@ the Perfect, but the means to strive towards the Perfect. And thus one
 of the most accomplished of modern reasoners, to whose lectures you must
 have listened with delight, in your college days, says well:--
 
+
    "'Accordingly the sciences always studied with keenest interest are
      those in a state of progress and uncertainty; absolute certainty and
      absolute completion would be the paralysis of any study, and the last
@@ -15316,6 +15480,7 @@ distinctly and solely on Man, the more they seem to distinguish him from
 the other races by their comprehension of objects beyond his life upon
 this earth.
 
+
    "'Man alone,' says Muller, 'can conceive abstract notions; and it is in
      abstract notions--such as time, space, matter, spirit, light, form,
      quantity, essence--that man grounds, not only all philosophy, all
@@ -15329,6 +15494,7 @@ must be compelled to affirm that he is the only creature in existence
 whom Nature or Providence has condescended to deceive and cheat by
 capacities for which there are no available objects. How nobly and how
 truly has Chalmers said:--
+
 
    "'What inference shall we draw from this remarkable law in Nature that
      there is nothing waste and nothing meaningless in the feelings and
@@ -15644,9 +15810,11 @@ quotation which memory afforded to the interlocutor.
 
 
 
+
+
 CHAPTER LXXIV.
 
-My Work, my Philosophical Work-the ambitious hope of my intellectual
+My Work, my Philosophical Work--the ambitious hope of my intellectual
 life--how eagerly I returned to it again! Far away from my household
 grief, far away from my haggard perplexities--neither a Lilian nor a
 Margrave there!
@@ -16077,7 +16245,7 @@ chase to my quarry. At last, though enfeebled and languid, I was again
 on my horse. Again the pursuit, again the track! I learned--but this
 time by a knowledge surer than man's--that the Dervish had taken his
 refuge in a hamlet that had sprung up over the site of a city once famed
-through Assyria. The same voice that in formed me of his whereabouts
+through Assyria. The same voice that informed me of his whereabouts
 warned me not to pursue. I rejected the warning. In my eager impatience
 I sprang on to the chase; in my fearless resolve I felt sure of the
 prey. I arrived at the hamlet wearied out, for my forces were no longer
@@ -16089,7 +16257,7 @@ search of the fugitive. Sure that this time he would not escape, my eyes
 closed in sleep.
 
 "How long I slept I know not,--a long dream of solitude, fever, and
-anguish. Was it the curse of the Dervish's car pet? Was it a taint in
+anguish. Was it the curse of the Dervish's carpet? Was it a taint in
 the walls of the house, or of the air, which broods sickly and rank over
 places where cities lie buried? I know not; but the Pest of the East
 had seized me in slumber. When my senses recovered I found myself alone,
@@ -16153,7 +16321,7 @@ back.
 
 "You do not live in this but, but with your family yonder. Do not tell
 them that I am here; let no one but yourself see me as I now am. Lock
-the door of the but when you quit it. I should not close my eyes if I
+the door of the hut when you quit it. I should not close my eyes if I
 were not secure from intruders."
 
 "There is but one in my house, or in these parts, whom I would except
@@ -16197,6 +16365,8 @@ laugh, then turned his face to the wall; and so I left him to repose.
 
 
 
+
+
 CHAPTER LXXV.
 
 I found Mrs. Ashleigh waiting for me in our usual sitting-room. She
@@ -16215,7 +16385,7 @@ hours of rest that I ceased to harass him with questions which he could
 not answer, and fears which he could not appease. Before leaving him
 for the night, I told him briefly that there was a traveller in my but
 smitten by a disease which seemed to me so grave that I would ask
-his opinion of the case, if he could accompany me to the but the next
+his opinion of the case, if he could accompany me to the hut the next
 morning.
 
 My own thoughts that night were not such as would suffer me to sleep.
@@ -16479,7 +16649,7 @@ affections of the body.' In short--I own it--in this instance, the skill
 of the physician has been a compliant obedience to the instinct called
 forth in the patient; and the hopes I have hitherto permitted myself to
 give you were founded on my experience that her own hopes, conceived
-in trance, bad never been fallacious or exaggerated. The simples that
+in trance, had never been fallacious or exaggerated. The simples that
 I gathered for her yesterday she had described; they are not in our
 herbal. But as they are sometimes used by the natives, I had the
 curiosity to analyze their chemical properties shortly after I came to
@@ -16604,6 +16774,8 @@ has been perched on a tree in the vicinity of the room of an invalid,
 uttering its mournful notes, and it was only with the greatest
 difficulty that it could be dislodged from its position."--Dr. Bennett:
 Gatherings of a Naturalist in Australasia.
+
+
 
 
 
@@ -16791,7 +16963,7 @@ reminiscences.
 remembers a nightmare. Whenever I look back, before the illness of which
 I will presently speak, the image of Louis Grayle returns to me. I see
 myself with him in African wilds, commanding the fierce Abyssinians.
-I see myself with him in the fair Persian valley,-lofty, snow-covered
+I see myself with him in the fair Persian valley,--lofty, snow-covered
 mountains encircling the garden of roses. I see myself with him in the
 hush of the golden noon, reclined by the spray of cool fountains,--now
 listening to cymbals and lutes, now arguing with graybeards on secrets
@@ -16997,6 +17169,8 @@ charmer.
 
 
 
+
+
 CHAPTER LXXVII.
 
 To those of my readers who may seek with Julius Faber to explore,
@@ -17038,7 +17212,6 @@ the thoughts that induce them to listen, and acquiring by practice
 a startling ability to judge what the listeners will deem it most
 seer-like to read in the cards or divine from the stars.
 
-
 I leave this interpretation unassailed. It is that which is the most
 probable; it is clearly that which, in a case not my own, I should have
 accepted; and yet I revolved and dismissed it. The moment we deal
@@ -17078,6 +17251,8 @@ Faber's hand took mine, and led me into the house.
 strength?" said I, whisperingly.
 
 "I cannot say; but she demands the interview, and I dare not refuse it."
+
+
 
 
 
@@ -17160,6 +17335,8 @@ rejoicing in your joy!"
 
 Here language failed her. Again the dear arms embraced me, and the dear
 face, eloquent with love, hid itself on my human breast.
+
+
 
 
 
@@ -17448,6 +17625,8 @@ do not believe you.
 
 
 
+
+
 CHAPTER LXXX.
 
 Along the grass-track I saw now, under the moon, just risen, a strange
@@ -17544,7 +17723,7 @@ him to aid. Night is come, and we waste it; move on."
 The woman made no reply, nor did I. He took my arm and walked back to
 the hut. The barbaric escort followed. When we reached the door of
 the building, Margrave said a few words to the woman and to the
-litter-bearers. They entered the but with us. Margrave pointed out to
+litter-bearers. They entered the hut with us. Margrave pointed out to
 the woman his coffer, to the men the fuel stowed in the outhouse. Both
 were borne away and placed within the litter. Meanwhile, I took from
 the table, on which it was carelessly thrown, the light hatchet that I
@@ -17563,6 +17742,8 @@ sands."
 there is no faltering terror in this pulse! I was not mistaken in the
 Man. What rests, but the Place and the Hour? I shall live! I shall
 live!"
+
+
 
 
 
@@ -17661,11 +17842,11 @@ radiant and joyous, literally "framed in blooms."
 
 
 
+
+
 CHAPTER LXXXII.
 
-"So," said Margrave, turning to me, "under the soil that spreads around
-us lies the gold which to you and to me is at this moment of no value,
-except as a guide to its twin-born,--the regenerator of life!"
+ "So," said Margrave, turning to me, "under the soil that spreads around us lies the gold which to you and to me is at this moment of no value, except as a guide to its twin-born,--the regenerator of life!"
 
 "You have not yet described to me the nature of the substance which we
 are to explore, nor of the process by which the virtues you impute to it
@@ -17770,7 +17951,7 @@ despite of their patience and skill, would have said, 'Not with us rests
 the fault; we neglected no caution, we failed from no oversight. But out
 from the caldron dread faces arose, and the spectres or demons dismayed
 and baffled us.' Such, then, is the danger which seems so appalling to
-a son of the East, as it seemed to a sees in the dark age of Europe. But
+a son of the East, as it seemed to a seer in the dark age of Europe. But
 we can deride all its threats, you and I. For myself, I own frankly I
 take all the safety that the charms and resources of magic bestow. You,
 for your safety, have the cultured and disciplined reason which reduces
@@ -17797,6 +17978,8 @@ myself. Both know how little aid we can win from the colleges, and both,
 therefore, turn to the promises most audaciously cheering. Dervish or
 magician, alchemist or phantom, what care you and I? And if they fail
 us, what then? They cannot fail us more than the colleges do!"
+
+
 
 
 
@@ -17828,12 +18011,11 @@ But Margrave's keen eye caught sight of the atoms upcast by the light
 of the moon. He exclaimed to me, "Found! I shall live!" And then, as he
 gathered up the grains with tremulous hands, he called out to the Veiled
 Woman, hitherto still seated motionless on the crag. At his word she
-rose and went to the place bard by, where the fuel was piled, busying
+rose and went to the place hard by, where the fuel was piled, busying
 herself there. I had no leisure to heed her. I continued my search in
 the soft and yielding soil that time and the decay of vegetable life had
 accumulated over the Pre-Adamite strata on which the arch of the cave
 rested its mighty keystone.
-
 
 When we had collected of these particles about thrice as much as a
 man might hold in his hand, we seemed to have exhausted their bed. We
@@ -17854,6 +18036,8 @@ turned away, "But the work is yet to be done."
 
 
 
+
+
 CHAPTER LXXXIV.
 
 While we had thus laboured and found, Ayesha had placed the fuel where
@@ -17865,6 +18049,8 @@ as the moonlight whitened all the ground from which the image rose
 motionless. Margrave opened his coffer, the Veiled Woman did not aid
 him, and I watched in silence, while he as silently made his weird and
 wizard-like preparations.
+
+
 
 
 
@@ -17938,6 +18124,8 @@ will support you through six weary hours of night-watch?"
 
 "Hope," answered Margrave, with a ray of his old dazzling style. "Hope!
 I shall live,--I shall live through the centuries!"
+
+
 
 
 
@@ -18085,6 +18273,8 @@ rose-hues to deepen,--signs that we near the last process."
 
 
 
+
+
 CHAPTER LXXXVII.
 
 The fifth hour had passed away, when Ayesha said to me, "Lo! the circle
@@ -18131,7 +18321,7 @@ behind us, murmuring low, "See the bubbles of light, how they sparkle
 and dance! I shall live, I shall live!" And his words scarcely died in
 our ears before, crash upon crash, came the fall of the age-long trees
 in the forest; and nearer, all near us, through the blazing grasses, the
-hiss of the serpents, the scream of-the birds, and the bellow and tramp
+hiss of the serpents, the scream of the birds, and the bellow and tramp
 of the herds plunging wild through the billowy red of their pastures.
 
 Ayesha now wound her arms around Margrave, and wrenched him, reluctant
@@ -18282,6 +18472,8 @@ Foot?
 
 
 
+
+
 CHAPTER LXXXVIII.
 
 When my sense had recovered its shock, and my eyes looked dizzily round,
@@ -18413,6 +18605,8 @@ guard me on my way; but she gave no reply to my parting thanks.
 
 
 
+
+
 CHAPTER LXXXIX.
 
 I descended into the valley; the armed men followed. The path, on that
@@ -18488,11 +18682,10 @@ wherever the heart is afflicted, the mind is obscured.
 Then the words of Ayesha rushed over me: "What mourner can be consoled,
 if the Dead die forever?" Through every pulse of my frame throbbed that
 dread question. All Nature around seemed to murmur it. And suddenly, as
-by a flash from heaven, the grand truth in Faber's grand reasoning
-shone on me, and lighted up all, within and without. Alan alone, of all
-earthly creatures, asks, "Can the Dead die forever?" and the instinct
-that urges the question is God's answer to man! No instinct is given in
-vain.
+by a flash from heaven, the grand truth in Faber's grand reasoning shone
+on me, and lighted up all, within and without. Man alone, of all earthly
+creatures, asks, "Can the Dead die forever?" and the instinct that urges
+the question is God's answer to man! No instinct is given in vain.
 
 And born with the instinct of soul is the instinct that leads the soul
 from the seen to the unseen, from time to eternity, from the torrent
@@ -18593,162 +18786,165 @@ THE END.
 
 
 
-End of Project Gutenberg's A Strange Story, Complete, by Edward Bulwer-Lytton
+
+
+
+
+
+End of Project Gutenberg's A Strange Story, Complete, by Edward
+Bulwer-Lytton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK A STRANGE STORY, COMPLETE ***
 
-***** This file should be named 7701.txt or 7701.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/7/0/7701/
+***** This file should be named 7701.txt or 7701.zip ***** This and
+all associated files of various formats will be found in:        http://www.gutenberg.org/7/7/0/7701/
 
 Produced by Andrew Heath and David Widger
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
@@ -18779,68 +18975,66 @@ that
 - You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
+ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -18851,44 +19045,44 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number
+is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
+email business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official page
+at http://pglaf.org
 
 For additional contact information:
      Dr. Gregory B. Newby
@@ -18896,61 +19090,64 @@ For additional contact information:
      gbnewby@pglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit http://pglaf.org
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
+with anyone. For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 
 Most people start at our Web site which has the main PG search facility:
 
      http://www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
